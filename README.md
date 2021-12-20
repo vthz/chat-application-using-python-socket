@@ -1,2 +1,2 @@
 # chat-application-using-python-socket
-A chat application made by using Python sockets
+A chat application made using Python sockets
